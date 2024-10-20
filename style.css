@@ -187,11 +187,10 @@ h1 {
 
 h2 {
     font-size: 1.5em;
-    color: #080201;
+    color: #ef0c0c;
     text-align: center;
     margin-top: 20px;
     letter-spacing: 3px;
-    animation: blink 1s infinite;
 }
 
 @keyframes pulse {
