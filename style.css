@@ -223,3 +223,17 @@ h2 {
         margin: 1.5em;
     }
 }
+
+body {
+    overflow-x: hidden; /* Prevents horizontal scrolling */
+}
+
+.wave {
+    width: 100%; /* Reduce width to fit within viewport */
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
